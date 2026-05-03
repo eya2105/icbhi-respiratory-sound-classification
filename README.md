@@ -11,12 +11,9 @@
 - [Architecture](#-architecture)
 - [Résultats — Table d'ablation](#-résultats--table-dablation)
 - [Recall par classe](#-recall-par-classe)
-- [Structure du repo](#-structure-du-repo)
-- [Installation](#-installation)
 - [Utilisation](#-utilisation)
 - [Améliorations implémentées](#-améliorations-implémentées)
 - [Analyse des erreurs](#-analyse-des-erreurs)
-- [Références](#-références)
 
 ---
 
